@@ -40,7 +40,7 @@ KEY FINDINGS:
 
 •The Mitsubishi Eclipse is the top revenue producing vehicle and the Jaguar XJ Series is the bottom producing vehicle.
 
-•Branch #22 located in St. Louis, Missouri performed the best. And Branch #27 located in Las Vegas, Nevada performed the worst.Project/assets/128015466/86dd6242-fb9f-4101-9f35-66acda9d0c5c)
+•Branch #22 located in St. Louis, Missouri performed the best. And Branch #27 located in Las Vegas, Nevada performed the worst.
 
 CALL TO ACTION:
 
@@ -52,7 +52,7 @@ CALL TO ACTION:
 
 •Taking no action will bring in no decrease of cost, and no increase of profit on vehicles.
 
-
+CONTACT: If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
 
 
 
