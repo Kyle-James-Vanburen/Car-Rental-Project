@@ -2,6 +2,10 @@
 
 ## A fully organized, functional, and dynamic Excel dashboard project. Which helped build the informative PowerPoint to bring profitableness to the Lariat Car Rentals business team.
 
+Their business management team wants to know what vehicles and branches are outperforming the rest in gross and net revenue. They also want to know what vehicles are rented more frequently and longer.
+
+Their primary business objective is to get strategies on how to minimize cost and maximize profit.
+
 This project is broken up into seven KEY color coded Excel worksheets. GREEN for strategies. ORANGE for car insights. And BLUE for Branch insights.
 
 BELLOW is a more informative insight on those seven sheets!
@@ -32,5 +36,24 @@ Car ID - This sheet shows each specific cars make, model, year, cost, revenue, a
 Revenue - This sheet provides all car transactions by each branch id , which gives you the precise
 and accurate car data you see in the Car ID sheet.
 
-As well, a PowerPoint presentation is attached into the project repository, which was presented to the Lariats business team.
+KEY FINDINGS:
+
+•The Mitsubishi Eclipse is the top revenue producing vehicle and the Jaguar XJ Series is the bottom producing vehicle.
+
+•Branch #22 located in St. Louis, Missouri performed the best. And Branch #27 located in Las Vegas, Nevada performed the worst.Project/assets/128015466/86dd6242-fb9f-4101-9f35-66acda9d0c5c)
+
+CALL TO ACTION:
+
+•Selling 20% of vehicles would provide the greatest decrease in cost.
+
+•Adding 20% more vehicles would provide an increase in profit.
+
+•In doing both you'll get a decrease in cost and an increase in profit.
+
+•Taking no action will bring in no decrease of cost, and no increase of profit on vehicles.
+
+
+
+
+
 
