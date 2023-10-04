@@ -1,6 +1,6 @@
 # Excel-Car-Rental-Project
 
-## Introduction ##
+### Introduction ###
 
 Lariat Car Rentals, aiming to optimize their operations, provided a comprehensive dataset encompassing car details, costs, revenues, and branch information. The primary objective was clear: identify high-performing vehicles and branches to maximize profits while minimizing costs. The dataset enabled a deep analysis, leading to valuable insights and strategic recommendations.
 
