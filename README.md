@@ -41,15 +41,21 @@ Lariat Car Rentals, aiming to optimize their operations, provided a comprehensiv
 
 **• Impact:** Higher expenses but nearly 5% increase in net revenue, enhancing overall profit.
 
+![Strategy 1](https://raw.githubusercontent.com/Kyle-James-Vanburen/Excel-Car-Rental-Project/main/Strategy%201.PNG)
+
 ### Strategy 2: Trim Underperforming Vehicles ###
 **• Action:** Sell off 20% (bottom 800 vehicles) with the worst gross revenue performance.
 
 **• Impact:** Noticeable decrease in expenses and a near 5% profit increase.
 
+![Strategy 2](https://raw.githubusercontent.com/Kyle-James-Vanburen/Excel-Car-Rental-Project/main/Strategy%202.PNG)
+
 ### Strategy 3: Optimal Balance ###
 **• Action:** Combine Strategy 1 & 2, maintaining the same quantity of vehicles (4,000).
 
 **• Impact:** Highest percentage of profit; however, expenses are relatively higher.
+
+![Strategy 3](https://raw.githubusercontent.com/Kyle-James-Vanburen/Excel-Car-Rental-Project/main/Strategy%203.PNG)
 
 ## Recommendations and Call to Action ##
 Based on the primary goal of maximizing profit, we strongly recommend implementing **Strategy 2**. Selling the least performing vehicles will significantly cut costs and substantially increase profits.
@@ -62,7 +68,8 @@ Based on the primary goal of maximizing profit, we strongly recommend implementi
 
 **Important Note:** Taking no action may maintain the status quo, but it won't yield a decrease in cost or an increase in profit. Choose your strategy wisely for optimal results.
 
-CONTACT: If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
+### CONTACT: ###
+If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
 
 
 
