@@ -1,56 +1,66 @@
 # Excel-Car-Rental-Project
 
-## A fully organized, functional, and dynamic Excel dashboard project. Which helped build the informative PowerPoint to bring profitableness to the Lariat Car Rentals business team.
+## Introduction ##
 
-Their business management team wants to know what vehicles and branches are outperforming the rest in gross and net revenue. They also want to know what vehicles are rented more frequently and longer.
+Lariat Car Rentals, aiming to optimize their operations, provided a comprehensive dataset encompassing car details, costs, revenues, and branch information. The primary objective was clear: identify high-performing vehicles and branches to maximize profits while minimizing costs. The dataset enabled a deep analysis, leading to valuable insights and strategic recommendations.
 
-Their primary business objective is to get strategies on how to minimize cost and maximize profit.
+## Objectives ##
 
-This project is broken up into seven KEY color coded Excel worksheets. GREEN for strategies. ORANGE for car insights. And BLUE for Branch insights.
+• Maximize Revenue: Determine top-performing vehicles and branches in terms of gross and net revenue.
 
-BELLOW is a more informative insight on those seven sheets!
+• Minimize Costs: Devise strategies to reduce expenses while maintaining operational efficiency.
 
-1. Strategies - This sheet consists of my strategies(total of 3) to help minimize cost and maximize profit it will show the comparisons of revenue, cost, and profit percentage.
+• Enhance Profitability: Balance vehicle inventory to boost profits without compromising customer service.
 
-2. Car Model Dashboard - This sheet lets you interact with the data, you choose the desired car you want to look at by selecting the car id in the slicer.
-   It will then compare that cars data to the average car cost, revenue, and rental lengths data.
+## Dataset Overview ##
 
-3. Branch Model Dashboard - This sheet lets you interact with the data, you choose the desired branch data you want to look at. By selecting the branch id in the slicer,
-   it will compare that branches data to the branch average revenue, transaction, and rental price per day data.
+• Car ID Mapping: Correlation of specific IDs with car make, model, and year.
 
-4. Top 10 Cars - This sheet shows both the most and least 10 profitable cars by gross revenue performance.
+• Car Costs: Monthly expenses and insurance costs for each vehicle.
 
-5. Top 10 Branches - This sheet shows both the most and least profitable branches by gross revenue performance.
+• Car Revenue: Transaction data, rental duration, price, branch ID, and driver details.
 
-6. Car ID Pivot - This sheet is where I used to help create the dynamic model for my car dashboard.
-   This sheet will give you all the information I used to calculate the baseline average data for the average car. And what car performed the best and worst.
+• Branch Location: Branch ID (1-50), state, city, and airport location indicator.
 
-7. Branch Pivot - This sheet is where I used to help create the dynamic model for my branch dashboard.
-This sheet will give you all the information I used to calculate the baseline average for branches. 
-And what branch number performed the best and worst.
+## Key Findings ##
 
-ALSO, bellow are two important sheets that arent color coded. 
+### Vehicle Performance ###
+• Top Revenue Producer: Mitsubishi Eclipse stood out as the highest revenue-generating vehicle.
 
-Car ID - This sheet shows each specific cars make, model, year, cost, revenue, and rental length data.
+• Lowest Revenue Producer: The Jaguar XJ Series had the lowest gross revenue performance.
 
-Revenue - This sheet provides all car transactions by each branch id , which gives you the precise
-and accurate car data you see in the Car ID sheet.
+### Branch Performance ###
+• Best Performing Branch: Branch #22 in St. Louis, Missouri emerged as the top revenue-generating branch.
 
-KEY FINDINGS:
+• Least Performing Branch: Branch #27 in Las Vegas, Nevada demonstrated the lowest gross revenue performance.
 
-•The Mitsubishi Eclipse is the top revenue producing vehicle and the Jaguar XJ Series is the bottom producing vehicle.
+## Strategic Recommendations ##
 
-•Branch #22 located in St. Louis, Missouri performed the best. And Branch #27 located in Las Vegas, Nevada performed the worst.
+### Strategy 1: Optimize Inventory ###
+**• Action:** Increase inventory by 20% (top 800 vehicles) based on profitability.
 
-CALL TO ACTION:
+**• Impact:** Higher expenses but nearly 5% increase in net revenue, enhancing overall profit.
 
-•Selling 20% of vehicles would provide the greatest decrease in cost.
+### Strategy 2: Trim Underperforming Vehicles ###
+**• Action:** Sell off 20% (bottom 800 vehicles) with the worst gross revenue performance.
 
-•Adding 20% more vehicles would provide an increase in profit.
+**• Impact:** Noticeable decrease in expenses and a near 5% profit increase.
 
-•In doing both you'll get a decrease in cost and an increase in profit.
+### Strategy 3: Optimal Balance ###
+**• Action:** Combine Strategy 1 & 2, maintaining the same quantity of vehicles (4,000).
 
-•Taking no action will bring in no decrease of cost, and no increase of profit on vehicles.
+**• Impact:** Highest percentage of profit; however, expenses are relatively higher.
+
+## Recommendations and Call to Action ##
+Based on the primary goal of maximizing profit, we strongly recommend implementing **Strategy 2**. Selling the least performing vehicles will significantly cut costs and substantially increase profits.
+
+• **Sell 20% of Vehicles:** Drastic cost reduction leading to a substantial increase in net revenue.
+
+• **Add 20% More Vehicles:** Expand the fleet to boost profits further.
+
+• **Combined Approach:** Opt for both strategies to find the perfect balance between cost and profit.
+
+**Important Note:** Taking no action may maintain the status quo, but it won't yield a decrease in cost or an increase in profit. Choose your strategy wisely for optimal results.
 
 CONTACT: If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
 
